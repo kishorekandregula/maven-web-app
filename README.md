@@ -470,7 +470,7 @@ Stage 4: Upload Artifacts
 
 Stage 5: Deploy the App
 
-### First Stage: Clone the Repository
+### Stage 1: Clone the Repository
 
 So in this pipeline’s first stage, we’re going to clone the git repository in my Github account. 
 
@@ -501,7 +501,7 @@ check the councle it get success in any problem in credentials it will failed
 
 so we have completed our firststage now we proceed to the second stage which is maven Build
 
-## second stage :maven build
+## stage 2:maven build
 go pipeline 
 add maven as build tool save and apply the changes
 Just Run the pipeline and see whether the second stage is processing or not. So Click Build Now.
